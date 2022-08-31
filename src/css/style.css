@@ -579,3 +579,11 @@ footer {
     padding: 20px;
   }
 }
+
+/* ************************************ */
+.link-simple,
+.link-simple:active,
+.link-simple:visited{
+  text-decoration: none;
+  color: inherit;
+}
